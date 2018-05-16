@@ -1,0 +1,28 @@
+{
+  "title": "网站名字",
+  "last": "最后更新时间: 2018-09-12",
+  "primary": {
+    "title": "标题测试1",
+    "color": "red",
+    "site": [
+      { "title": "网站名字网站名字网站名字网站名字网站名字网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" }
+    ]
+  },
+  "second": {
+    "title": "标题测试2",
+    "color": "tenne",
+    "site": [
+      { "title": "网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" },
+      { "title": "网站名字", "url": "www.baidu.com" }
+    ]
+  }
+}
