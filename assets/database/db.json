@@ -24,25 +24,5 @@
       { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" }
     ]
-  },
-  "3333": {
-    "title": "背景",
-    "color": "green",
-    "site": [
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" }
-    ]
-  },
-  "4444": {
-    "title": "音效",
-    "color": "purple",
-    "site": [
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" }
-    ]
   }
 }
