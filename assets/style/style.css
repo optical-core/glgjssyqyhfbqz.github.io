@@ -1,0 +1,56 @@
+body {
+  background-color: #ededed;
+}
+
+a {
+  line-height: 100px;
+
+  display: inline-block;
+  overflow: hidden;
+
+  box-sizing: border-box;
+  width: 12.5%;
+  height: 100px;
+  padding: 0 1%;
+
+  white-space: nowrap;
+  text-decoration: none;
+  text-overflow: ellipsis;
+}
+
+strong {
+  display: block;
+}
+
+time {
+  position: absolute;
+  right: 5%;
+}
+
+.red {
+  color: #cc2f72;
+}
+
+.blue {
+  color: #005aff;
+}
+
+.purple {
+  color: #b961d8;
+}
+
+.green {
+  color: #10ba4e;
+}
+
+.skyblue {
+  color: #0096bc;
+}
+
+.tenne {
+  color: #c37700;
+}
+
+.orange {
+  color: #cf401a;
+}
