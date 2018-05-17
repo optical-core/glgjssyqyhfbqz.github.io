@@ -1,6 +1,6 @@
 {
   "title": "动画二维公司黄页",
-  "last": "最后更新时间: 2018-05-16",
+  "last": "最后更新时间: 2018-05-17",
   "primary": {
     "title": "原画",
     "color": "blue",
@@ -12,15 +12,13 @@
       { "title": "绿怪研", "url": "www.gmt-otaku.com" },
       { "title": "LAN动画", "url": "weibo.com/p/1005055589383642" },
       { "title": "大火鸟", "url": "weibo.com/miaosanye" },
-      { "title": "——", "url": "www.baidu.com" },
+      { "title": "咕咚动漫", "url": "weibo.com/2803637093" },
       { "title": "彩色铅笔", "url": "weibo.com/caiseqianbi123" },
       { "title": "视美", "url": "www.gcmay.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
+      { "title": "好传动画", "url": "weibo.com/NiceBoat528" },
+      { "title": "逗卜止", "url": "weibo.com/u/5993812318" },
+      { "title": "千骐动漫", "url": "www.gzqq.net" },
+      { "title": "七瞳映画", "url": "weibo.com/DS2024" },
       { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" },
@@ -37,9 +35,6 @@
     "title": "加工",
     "color": "purple",
     "site": [
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
-      { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" },
@@ -67,6 +62,8 @@
     "site": [
       { "title": "北斗企鹅", "url": "www.triopen.com" },
       { "title": "声光骑士", "url": "weibo.com/u/2965231435" },
+      { "title": "Alice工坊", "url": "weibo.com/u/1792263615" },
+      { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" }
     ]
