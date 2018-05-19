@@ -1,6 +1,6 @@
 {
   "title": "二维动画公司 黄页",
-  "last": "最后更新时间: 2018-05-18",
+  "last": "最后更新时间: 2018-05-19",
   "primary": {
     "title": "原画",
     "color": "blue",
@@ -58,12 +58,29 @@
     ]
   },
   "four": {
-    "title": "音效",
+    "title": "配音",
     "color": "orange",
     "site": [
       { "title": "北斗企鹅", "url": "www.triopen.com" },
+      { "title": "——", "url": "www.baidu.com" },
+      { "title": "——", "url": "www.baidu.com" },
+      { "title": "——", "url": "www.baidu.com" },
+      { "title": "——", "url": "www.baidu.com" }
+    ]
+  },
+  "five": {
+    "title": "音效",
+    "color": "blur",
+    "site": [
       { "title": "声光骑士", "url": "weibo.com/u/2965231435" },
       { "title": "Alice工坊", "url": "weibo.com/u/1792263615" },
+      { "title": "秉音创声", "url": "weibo.com/u/5584880843" },
+      { "title": "大声公", "url": "weibo.com/megaphonestudio" },
+      { "title": "唐音", "url": "weibo.com/tonestudio" },
+      { "title": "幻想动漫", "url": "weibo.com/p/1005053169420063" },
+      { "title": "——", "url": "www.baidu.com" },
+      { "title": "——", "url": "www.baidu.com" },
+      { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" },
       { "title": "——", "url": "www.baidu.com" },
